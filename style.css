@@ -1,0 +1,55 @@
+
+
+body{
+    background-image:url("338726446_606914641343271_2353329412848759708_n.jpg");
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+ul{
+    color: orangered;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+}
+P{
+    font-size: 40PX;
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1{
+    color: red;
+    background-color: rgb(178, 230, 173);
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+h2{
+    color: red;
+    background-color: rgb(178, 230, 173);
+    font-style: italic;
+    font-weight: bold;   
+    font-size: 40px;
+}
+
+a{
+
+    color: red;
+    background-color: rgb(178, 230, 173);
+    font-style: italic;
+    font-weight: bold; 
+    font-size: 40px;
+}
+
+h4{
+    color: red;
+    background-color: rgb(178, 230, 173);
+    font-style: italic;
+    font-weight: bold; 
+    font-size: 40px;
+}
